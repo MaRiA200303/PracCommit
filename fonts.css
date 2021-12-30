@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: dayslater;
+    src: url(28\ Days\ Later.ttf) format('truetype');
+}
+
+h1{
+    font-family: dayslater;
+    font-size: 400%;
+    
+}
